@@ -1,0 +1,129 @@
+Message :Could not find file 'c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLogin\bin\Debug\credentials'. 
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at PortableLogin.FileMinapulation.ReadUserNameAndPassword() in c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PortableLogin\PortableLogin\FileMinapulation.cs:line 23
+Date :12/27/2015 3:15:22 PM
+
+-----------------------------------------------------------------------------
+
+Message :Could not find file 'c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLogin\bin\Debug\credentials'. 
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at PortableLogin.FileMinapulation.ReadUserNameAndPassword() in c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PortableLogin\PortableLogin\FileMinapulation.cs:line 23
+Date :12/27/2015 3:15:30 PM
+
+-----------------------------------------------------------------------------
+
+Message :Could not find file 'c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLogin\bin\Debug\credentials'. 
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at PortableLogin.FileMinapulation.ReadUserNameAndPassword() in c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PortableLogin\PortableLogin\FileMinapulation.cs:line 23
+Date :12/27/2015 3:15:42 PM
+
+-----------------------------------------------------------------------------
+
+Message :Could not find file 'c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLogin\bin\Debug\credentials'. 
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at PortableLogin.FileMinapulation.ReadUserNameAndPassword() in c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PortableLogin\PortableLogin\FileMinapulation.cs:line 23
+Date :12/27/2015 3:15:53 PM
+
+-----------------------------------------------------------------------------
+
+Message :Could not find file 'c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLogin\bin\Debug\credentials'. 
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at PortableLogin.FileMinapulation.ReadUserNameAndPassword() in c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PortableLogin\PortableLogin\FileMinapulation.cs:line 23
+Date :12/27/2015 3:16:53 PM
+
+-----------------------------------------------------------------------------
+
+Message :Could not find file 'c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLogin\bin\Debug\credentials'. 
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at PortableLogin.FileMinapulation.ReadUserNameAndPassword() in c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PortableLogin\PortableLogin\FileMinapulation.cs:line 23
+Date :12/27/2015 3:17:01 PM
+
+-----------------------------------------------------------------------------
+
+Message :Could not find file 'c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLogin\bin\Debug\credentials'. 
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at PortableLogin.FileMinapulation.ReadUserNameAndPassword() in c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PortableLogin\PortableLogin\FileMinapulation.cs:line 23
+Date :12/27/2015 3:18:01 PM
+
+-----------------------------------------------------------------------------
+
+Message :Could not find file 'c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLogin\bin\Debug\credentials'. 
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at PortableLogin.FileMinapulation.ReadUserNameAndPassword() in c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PortableLogin\PortableLogin\FileMinapulation.cs:line 23
+Date :12/27/2015 3:19:21 PM
+
+-----------------------------------------------------------------------------
+
+Message :Could not find file 'c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLogin\bin\Debug\credentials'. 
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at PortableLogin.FileMinapulation.ReadUserNameAndPassword() in c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PortableLogin\PortableLogin\FileMinapulation.cs:line 23
+Date :12/27/2015 3:20:02 PM
+
+-----------------------------------------------------------------------------
+
+username or password were retreived empty from the file
+
+-----------------------------------------------------------------------------
+
+username or password were retreived empty from the file
+
+-----------------------------------------------------------------------------
+
+username or password were retreived empty from the file
+
+-----------------------------------------------------------------------------
+

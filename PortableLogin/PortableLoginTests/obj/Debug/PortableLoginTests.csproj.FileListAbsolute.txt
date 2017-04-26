@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLoginTests\bin\Debug\PortableLoginTests.dll
+c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLoginTests\bin\Debug\PortableLoginTests.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLoginTests\bin\Debug\PortableLogin.exe
+c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLoginTests\bin\Debug\PortableLogin.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLoginTests\obj\Debug\PortableLoginTests.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLoginTests\obj\Debug\PortableLoginTests.dll
+c:\users\administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLoginTests\obj\Debug\PortableLoginTests.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\PortableLogin\PortableLoginTests\bin\Debug\MetroFramework.dll
