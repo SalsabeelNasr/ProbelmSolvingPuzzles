@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <title></title>
+    <!-- custom styles -->
+    <link rel='stylesheet' type='text/css' href='css/main.css'> 
+    <link rel='stylesheet' type='text/css' href='css/progress.css'> 
+    <link rel='stylesheet' type='text/css' href='css/gamepanel.css'> 
+    <!-- favicon -->
+    <link rel='shortcut icon' href='images/favicon.ico' type='image/x-icon' />
+    <!--jquery-->
+    <script src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <!--angular js-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js"></script>
+    <!--controllers js-->
+    <script src="scripts/CamelRaceController.js"></script>
+    <!--services js-->
+    <script src="scripts/services/wordService.js"></script>
+    <script src="scripts/services/camelService.js"></script>
+</head>
+<body ng-app="CamelRace">
+    <div class='container' ng-controller="CamelRaceController"> 
+        <div class="sky">
+            <div class="playerspane">
+                <playersProgress></playersProgress> 
+                <div ng-repeat="player in players">
+                    <span class="whitetext">{{player.name}} :</span></br>
+                    <progress  id="progressbar" max="100" class="progress-bar" value="{{ player.position }}"> </progress>
+                    <span class="whitetext" id="progressbarlabel">{{ player.position }} %</span>
+                </div>
+            </div>
+            <div class="form">
+                <div ng-show="isHuman();"> 
+                    <span disabled class="{{counterClass}}" >{{counter.seconds}}</span>
+                    <input disabled type="text" class="zocial-dribbble" value="{{randomWord}}">
+                    <input type="text" placeholder="Type word" ng-model="userInput" ng-keypress="onTyping($event)">
+                </div>
+                <h1 ng-hide="isHuman();">Hold On it's PC Turn</h1>
+            </div>
+        </div>
+        <div ng-repeat="player in players">
+            <div class="{{environment.terrainType}}">
+                <img class="camel" src="{{player.camelImage}}" style="position:absolute"
+                     ng-style="{left:player.position < 100 ? player.position +'%' : '94.5%' }" />
+            </div>
+        </div>
+        <div ng-show="weHaveAwinner()" class="gameover">
+           Game Over "{{winner.name}}" won!
+        </div>
+    </div>
+</body>
+</html>
