@@ -1,7 +1,4 @@
-# ProbelmSolvingPuzzles
-                                                               ---------
-                                                                Readify
-                                                               ---------
+# ProbelmSolvingPuzzles 
 Puzzle One – Linked List
 -------------------------
 Write a function that would return the 5th element from the tail (or end) of a singly linked list of integers.
